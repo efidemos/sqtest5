@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: efidemos/sqtest5
     sonarqube.org/project-key: sqtest5
+    jenkins.io/job-full-name: pipelineTest
 spec:
   type: repository
   lifecycle: experimental
